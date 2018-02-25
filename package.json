@@ -1,0 +1,23 @@
+{
+  "name": "resultsutil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skipure/ResultsUtil.git"
+  },
+  "author": "Andrew Barnett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skipure/ResultsUtil/issues"
+  },
+  "homepage": "https://github.com/skipure/ResultsUtil#readme",
+  "dependencies": {
+    "fast-csv": "^2.4.1",
+    "table-scraper": "^0.1.0"
+  }
+}
